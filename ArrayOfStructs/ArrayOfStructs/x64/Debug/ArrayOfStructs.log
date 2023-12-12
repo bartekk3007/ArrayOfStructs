@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\ArrayOfStructs\ArrayOfStructs\main.c(31,2): warning C4013: niezdefiniowany "strcpy_s"; przy założeniu, że extern zwraca int
+  ArrayOfStructs.vcxproj -> C:\Users\48571\source\repos\ArrayOfStructs\x64\Debug\ArrayOfStructs.exe
